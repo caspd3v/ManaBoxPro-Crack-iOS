@@ -1,0 +1,9 @@
+Package: dev.casp.mbox
+Name: ManaBoxCrack
+Version: 1.0
+Architecture: iphoneos-arm
+Description: ManaBox Premium!
+Maintainer: Winter Bagley (DevCasp)
+Author: Winter Bagley (DevCasp)
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
