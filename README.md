@@ -15,8 +15,8 @@ Enables ManaBox Premium
 ### 2.
 ```Scroll down & tap configure proxy & tap manual.```
 ### 3.
-```On macos type ipconfig to get the ip address for your mac for mitmproxy.
-Example: 192.168.10.53 port 8082```
+```On macos type ipconfig to get the ip address for your mac for mitmproxy.```
+Example: 192.168.10.53 port 8082
 ### 4.
 ```Open ManaBox & enjoy premium.```
 
