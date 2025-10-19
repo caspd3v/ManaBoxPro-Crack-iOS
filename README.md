@@ -3,11 +3,11 @@ Enables ManaBox Premium
 
 ## MacOS Setup
 ### 1.
-> open teminal
+```open teminal```
 ### 2.
-> /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"```
 ### 3.
-> brew install mitmproxy
+```brew install mitmproxy```
 
 ## Setup idevice
 ### 1.
