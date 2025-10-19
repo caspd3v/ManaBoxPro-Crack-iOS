@@ -11,29 +11,29 @@ Enables ManaBox Premium
 
 ## Setup idevice
 ### 1.
-> Go to settings app > Wifi > press the i button
+```Go to settings app > Wifi > press the i button```
 ### 2.
-> Scroll down & tap configure proxy & tap manual.
+```Scroll down & tap configure proxy & tap manual.```
 ### 3.
-> On macos type ipconfig to get the ip address for your mac for mitmproxy.
-Example: 192.168.10.53 port 8082
+```On macos type ipconfig to get the ip address for your mac for mitmproxy.
+Example: 192.168.10.53 port 8082```
 ### 4.
-> Open ManaBox & enjoy premium.
+```Open ManaBox & enjoy premium.```
 
 ## Run Crack
 ### 1.
-> cd to folder with run.sh file
+```cd to folder with run.sh file```
 ### 2.
-> chmod +x *
+```chmod +x *```
 ### 3.
-> ./run.sh
+```./run.sh```
 
 ## Theos
 URL: https://theos.dev
 Once theos is installed cd into project directory then type:
-> make package
+```make package```
 
 ## More
 ### Socials
 X/Twitter: https://x.com/devcasp
-YouTube: https://youtube.com/devcasp
+YouTube: https://www.youtube.com/@devcasp
